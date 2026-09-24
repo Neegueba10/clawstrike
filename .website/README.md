@@ -1,4 +1,7 @@
 ---
+genres:
+  - action
+  - roguelike
 directors_cut: https://meow.tap2play.io/
 video: https://youtu.be/n8V4umhu9ZA
 # See github.com/js13kGames/hello-world for supported frontmatter
